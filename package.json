@@ -1,0 +1,21 @@
+{
+  "name": "block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "merkle": "^0.6.0",
+    "merkletreejs": "^0.2.24",
+    "random": "^3.0.6",
+    "ws": "^8.2.1"
+  }
+}
